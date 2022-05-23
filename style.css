@@ -104,8 +104,7 @@ button {
 }
 
 /* new task */
-.new-task-title {
-  display: block;
+.add-section-title {
   margin: 0 0 20px;
 }
 
